@@ -64,3 +64,12 @@ a{
     height:500px;
     width:300px
 }
+img.emoji{
+    color: #111;
+    background:pink;
+    box-shadow: 0 0 100px pink;
+}
+.intj{
+    height:400px;
+    width:400px
+}
