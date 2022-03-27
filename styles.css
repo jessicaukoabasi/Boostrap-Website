@@ -47,7 +47,10 @@ list-style-type: none;
     border-radius: 5%;
 }
 .services{
-    color:#fff
+    color:#fff;
+}
+.services img{
+    height:200px
 }
 footer{
     color: #fff;
